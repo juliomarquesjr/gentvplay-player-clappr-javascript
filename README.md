@@ -1,5 +1,5 @@
 #  GenTV Player
-<img src="https://i.ibb.co/MnqJSrx/previewgentv.png" alt="exemplo imagem">
+<img src="https://i.ibb.co/MnqJSrx/previewgentv.png" alt="Preview do player">
 
 ##  💻 Sobre o projeto
 Esse projeto foi desenvolvido para atender as demandas do site GenTV Play. Foi utilizado como base a biblioteca do Clappr.io, para maiores informações segue alguns links abaixo:
@@ -13,21 +13,22 @@ O player inicia automaticamente, porem para que isso funcione é necessário que
 ##  🚀 Utilizando o GenTV Player
 Adicionamos abaixo algumas opções de código para adição do player aos sites e aplicativos contidos na plataforma:
 
-Player Responsivo (100%):
+Player Default (AutoPlay Ativo):
+[Clique aqui](https://gentvplay-player-clappr-javascript.vercel.app) para conferir a versão responsiva
+
 ```
 <div style="position: relative; margin: 0;padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;">
 <iframe src="https://gentvplay-player-clappr-javascript.vercel.app" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute; margin:0; padding:0; top:0; left: 0;width: 100%; height: 100%;"></iframe>
 </div>                    
 ```
-[Clique aqui](https://gentvplay-player-clappr-javascript.vercel.app) para conferir a versão responsiva
 
-Player Resposivo com Watermark
+Player com Marca D´água (AutoPlay)
+[Clique aqui](https://gentvplay-player-clappr-javascript.vercel.app/watermark.html) para conferir a versão com Watermark
 ```
 <div style="position: relative; margin: 0;padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;">
 <iframe src="https://gentvplay-player-clappr-javascript.vercel.app/watermark.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute; margin:0; padding:0; top:0; left: 0;width: 100%; height: 100%;"></iframe>
 </div> 
 ```
-[Clique aqui](https://gentvplay-player-clappr-javascript.vercel.app/watermark.html) para conferir a versão com Watermark
 
 ###  Tarefas a serem implementadas
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
