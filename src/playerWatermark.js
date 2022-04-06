@@ -7,7 +7,7 @@ var player = new Clappr.Player({
   plugins: [ChromecastPlugin],
   parentId: ".gentvplayer",
   autoPlay: true,
-  loop: true,
+  mute: true,
   width: "100%",
   height: "100%",
   mediacontrol: { seekbar: "#F8F8FF", buttons: "#FFFAFA" },

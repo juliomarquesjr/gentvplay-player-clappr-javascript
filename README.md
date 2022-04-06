@@ -18,7 +18,7 @@ Player Responsivo (100%):
 <iframe src="https://gentvplay-player-clappr-javascript.vercel.app" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute; margin:0; padding:0; top:0; left: 0;width: 100%; height: 100%;"></iframe>
 </div>                    
 ```
-(Clique aqui)<https://gentvplay-player-clappr-javascript.vercel.app> para conferir a versão responsiva
+[Clique aqui](https://gentvplay-player-clappr-javascript.vercel.app) para conferir a versão responsiva
 
 Player Resposivo com Watermark
 ```
@@ -26,7 +26,7 @@ Player Resposivo com Watermark
 <iframe src="https://gentvplay-player-clappr-javascript.vercel.app/watermark.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute; margin:0; padding:0; top:0; left: 0;width: 100%; height: 100%;"></iframe>
 </div> 
 ```
-(Clique aqui)<https://gentvplay-player-clappr-javascript.vercel.app/watermark.html> para conferir a versão com Watermark
+[Clique aqui](https://gentvplay-player-clappr-javascript.vercel.app/watermark.html) para conferir a versão com Watermark
 
 ###  Tarefas a serem implementadas
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
