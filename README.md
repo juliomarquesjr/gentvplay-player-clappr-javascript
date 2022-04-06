@@ -32,7 +32,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Compatibilidade com Apple Air Play
 - [x] Imagem de apresentação (Poster)
 - [x] Alterar esquema de cores dos botões
-- [ ] Implementação de Marca d´água
+- [X] Implementação de Marca d´água
 - [ ] Responsividade
 
 ##  🤝 Desenvolvedores
