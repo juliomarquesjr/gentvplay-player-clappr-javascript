@@ -1,5 +1,5 @@
 #  GenTV Player
-<img src="https://i.ibb.co/mvSzFVw/previewgentv2.png" alt="Preview do player" style={text-align: center;}>
+<div align=center><img src="https://i.ibb.co/mvSzFVw/previewgentv2.png" alt="Preview do player"></div>
 
 ##  💻 Sobre o projeto
 Esse projeto foi desenvolvido para atender as demandas do site GenTV Play. Foi utilizado como base a biblioteca do Clappr.io, para maiores informações segue alguns links abaixo:
