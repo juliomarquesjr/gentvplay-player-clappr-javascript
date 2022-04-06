@@ -5,9 +5,10 @@
 Esse projeto foi desenvolvido para atender as demandas do site GenTV Play. Foi utilizado como base a biblioteca do Clappr.io, para maiores informações segue alguns links abaixo:
 
 Clappr Base - https://github.com/clappr/clappr
+
 Clappr ChromeCast Plugin: https://github.com/clappr/clappr-chromecast-plugin
 
-O player inicia automaticamente, porem para que isso funcione é necessário que o audio esteja mutado. Conforme (documentação)<https://goo.gl/xX8pDD>
+O player inicia automaticamente, porem para que isso funcione é necessário que o audio esteja mutado. Conforme [documentação](https://goo.gl/xX8pDD)
 
 ##  🚀 Utilizando o GenTV Player
 Adicionamos abaixo algumas opções de código para adição do player aos sites e aplicativos contidos na plataforma:
