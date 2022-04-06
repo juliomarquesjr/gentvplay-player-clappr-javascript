@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/png" href="./src/img/favicon.png">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
@@ -29,42 +28,7 @@
 
 <body>
     <div class="gtvplayer"></div>
-
-    <script type="text/javascript">
-        Clappr.Log.setLevel(0);
-        window.onload = function () {
-            var player = new Clappr.Player({
-                source: "https://cdn-matheus-suporte.ciclano.io:1443/matheus-suporte/matheus-suporte/playlist.m3u8",
-                poster: "https://gentvplay.com.br/assets/logotop-4da130af3f80b87f51c0d491a90732a41b7ae00e33490fba7191842edf3ff868.png",
-                watermark: "https://gentvplay.com.br/assets/logotop-4da130af3f80b87f51c0d491a90732a41b7ae00e33490fba7191842edf3ff868.png",
-                position: 'bottom-right',
-                parentId: ".gtvplayer",
-                autoPlay: true,
-                loop: false,
-                width: "960px",
-                height: "540px",
-                mute: true,
-                plugins: [ChromecastPlugin],
-                mediacontrol: { seekbar: "#F8F8FF", buttons: "#FFFAFA" },
-
-                chromecast: {
-                    appId: "9DFB77C0",
-                    contentType: "video/mp4",
-                    watermark: "https://gentvplay.com.br/assets/logotop-4da130af3f80b87f51c0d491a90732a41b7ae00e33490fba7191842edf3ff868.png",
-                    position: 'bottom-right',
-                    media: {
-                        type: ChromecastPlugin.Movie,
-                        title: "GenTV Play",
-                        subtitle: "Assista a nossa programação ao vivo"
-                    },
-
-                    customData: {
-                        licenseURL: "http://gentvplay.com.br"
-                    }
-                }
-            });
-        };
-    </script>
+    <script type="text/javascript" src="./src/playerWatermark.js"></script>
 </body>
 
 </html>
