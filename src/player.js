@@ -6,7 +6,7 @@ var icon =
 var player = new Clappr.Player({
   source: "https://cdn-gentv.ciclano.io:1443/gentv/gentv/playlist.m3u8",
   poster: "https://i.ibb.co/8MTHPxj/imgfundoplayer.png",
-  plugins: [ChromecastPlugin, ClapprGaEventsPlugin],
+  plugins: [ChromecastPlugin],
   parentId: ".gentvplayer",
   autoPlay: true,
   mute: true,
@@ -24,9 +24,6 @@ var player = new Clappr.Player({
       title: "GenTV Play",
       subtitle: "Assista a nossa programação ao vivo",
     }
-  },
-  gaEventsPlugin: {
-    trackingId: 'G-RF8F7WGSDS',
   },
   
   events: {
