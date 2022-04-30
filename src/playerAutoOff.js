@@ -32,3 +32,4 @@ var player = new Clappr.Player({
     },
   },
 });
+

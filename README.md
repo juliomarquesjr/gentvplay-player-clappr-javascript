@@ -41,7 +41,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Compatibilidade com HLS
 - [x] Compatibilidade com Google Chrome e Cast
 - [x] Inicializar com reprodução (AutoPlay)
-- [ ] Compatibilidade com Apple Air Play
 - [x] Imagem de apresentação (Poster)
 - [x] Alterar esquema de cores dos botões
 - [x] Implementação de Marca d´água
