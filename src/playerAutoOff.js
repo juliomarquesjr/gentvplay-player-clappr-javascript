@@ -5,8 +5,8 @@ var icon =
 
 
 var player = new Clappr.Player({
-  source: "https://59f1cbe63db89.streamlock.net:1443/canaldeprodutos/_definst_/canaldeprodutos/playlist.m3u8",
-  poster: "https://i.ibb.co/rsgKKxM/pexels-pixabay-35550.jpg",
+  source: "https://cdn-gentv.ciclano.io:1443/gentv/gentv/playlist.m3u8",
+  poster: "https://i.ibb.co/8MTHPxj/imgfundoplayer.png",
   plugins: [ChromecastPlugin],
   parentId: ".playerCanaldeProdutos",
   autoPlay: false,
